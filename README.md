@@ -4,7 +4,7 @@
 <p>
     Weif is an opensource and free alternative to jupyter notebook
     Weif is very lite 
-    perso i love using Weif to try a little 
+    its verfy usefull to try a little code
 </p>
 
 
